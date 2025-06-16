@@ -229,7 +229,7 @@ python3 test_api.py
 ![8](asset/images/8.png)
 
 
-### TASK 3: Question:
+### 3. TASK 3: Question:
 **Review memory structure and propose improvements (30 minutes)**  
 ● Analyze the following code snippet and identify at least **2 issues**, along with proposed solutions:
 
